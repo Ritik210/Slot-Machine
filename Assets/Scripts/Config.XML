@@ -1,0 +1,50 @@
+<config version="1.0">
+<Bet value="20"/>
+
+<Paytable>
+<Symbol id="0" payout="0, 0, 0, 0, 0" />
+<Symbol id="1" payout="0, 0, 0, 0, 0" />
+<Symbol id="2" payout="0, 0, 0, 0, 0" />
+<Symbol id="3" payout="0, 2, 10, 50, 150"/>
+<Symbol id="4" payout="0, 0, 5, 25, 100" />
+<Symbol id="5" payout="0, 0, 5, 20, 100" />
+<Symbol id="6" payout="0, 0, 5, 20, 100" />
+<Symbol id="7" payout="0, 0, 5, 10, 50" />
+<Symbol id="8" payout="0, 0, 5, 10, 50" />
+<Symbol id="9" payout="0, 0, 5, 10, 50" />
+<Symbol id="10" payout="0, 0, 5, 10, 50" />
+<Symbol id="11" payout="0, 0, 5, 10, 50" />
+<Symbol id="12" payout="0, 0, 0, 0, 0"/>
+<Symbol id="13" payout="0, 0, 0, 0, 0"/>
+<Symbol id="14" payout="0, 0, 0, 0, 0"/>
+</Paytable>
+
+<ReelSets>
+<ReelSet id="0" name="BaseGame1">
+<Reel>"A","Q","PIC4","K","PIC3","10","PIC2","A","PIC1","J","Q","PIC2","A","PIC4","K","PIC3","A","Q","PIC1","A","PIC2","Q","PIC3","10","PIC4","A","PIC3","10","PIC2","A","J","PIC3","Q","SCAT2","SCAT2","K","J","PIC3","A","Q","PIC1","A","Q","PIC4","J","PIC2","10","PIC3","J","PIC1","A","PIC2","J","PIC4","K","PIC3","Q","PIC2","J","PIC3","A","SCAT2","SCAT2","J","Q","PIC1","A","PIC2","J","PIC3","Q","PIC1","10","PIC2","A","PIC3","Q","SCAT2","SCAT2","SCAT2","J","Q","PIC2"</Reel>
+<Reel>"10","PIC4","K","SCAT2","SCAT2","K","PIC4","10","PIC1","K","PIC4","10","PIC1","J","PIC3","K","PIC4","A","PIC3","K","PIC1","J","PIC2","K","PIC1","Q","PIC3","J","PIC4","K","SCAT2","SCAT2","10","PIC4","K","PIC2","10","PIC1","K","PIC4","Q","WILD","PIC4","Q","PIC3","K","PIC2","10","PIC4","K","PIC1","Q","PIC4","10","PIC1","K","PIC4","A","K","WILD","A","K","10","PIC3","K","PIC4","10","PIC2","J","PIC4","K","PIC3","10","PIC4","K","J","WILD","K","J","PIC3","Q","10","PIC1","K","PIC4","10","SCAT2","SCAT2","Q","PIC1","K","PIC4","A","WILD","PIC4","A","K","PIC1","J","PIC2","K","PIC1","Q","PIC3","J","PIC4","K","SCAT2","SCAT2","SCAT2","10","PIC4","K","PIC2","10","PIC1","K","WILD","PIC1","K","PIC2","A","PIC4","K","10","PIC2","J"</Reel>
+<Reel>"J","PIC1","K","PIC4","10","PIC3","K","PIC4","10","PIC2","J","WILD","PIC2","J","10","PIC2","K","PIC4","10","PIC2","Q","PIC3","K","PIC2","J","PIC1","K","WILD","PIC1","K","PIC3","K","PIC2","J","SCAT2","SCAT2","SCAT2","K","A","PIC1","10","PIC4","A","PIC1","J","WILD","PIC1","J","A","PIC2","10","PIC1","K","SCAT2","SCAT2","A","PIC2","Q","J","PIC1","K","PIC4","10","PIC3","K","PIC4","10","PIC2","J","Q","WILD","J","Q","PIC2","K","PIC4","10","PIC2","Q","PIC3","K","PIC2","J","PIC1","K","J","WILD","K","J","Q","PIC3","K","PIC2","J","SCAT2","SCAT2","SCAT2","K","A","PIC1","10","PIC4","A","PIC1","J","WILD","PIC1","J","A","PIC2","10","PIC1","K","SCAT2","SCAT2","A","PIC2","Q","PIC3"</Reel>
+<Reel>"A","PIC2","10","PIC1","A","PIC2","K","PIC4","10","WILD","PIC4","10","Q","PIC3","J","PIC4","K","PIC1","A","PIC3","K","PIC1","J","J","Q","WILD","J","Q","PIC1","10","PIC4","K","SCAT2","SCAT2","SCAT2","10","Q","PIC3","J","WILD","PIC3","J","Q","PIC3","10","PIC4","Q","PIC1","10","PIC3","J","WILD","PIC3","J","A","SCAT2","SCAT2","K","PIC4","10"</Reel>
+<Reel>"10","PIC3","J","PIC1","Q","PIC4","K","PIC3","A","PIC2","J","PIC3","A","PIC2","J","PIC4","A","PIC2","J","PIC1","10","PIC2","K","PIC3","A","PIC2","J","A","PIC4","Q","PIC3","A","PIC2","J","PIC3","Q","SCAT2","SCAT2","SCAT2","K","PIC2","10","Q","PIC3","K","PIC3","A","PIC2","J","PIC3","10","PIC2","K","J","PIC1","Q","PIC2","K","PIC4","Q","PIC2","A","PIC3","10","PIC2","K","SCAT2","SCAT2","A","PIC2","J","PIC1","10","PIC4","K","PIC3","Q","PIC3","A","PIC2","J","K","PIC2","A","PIC4","Q","PIC3","A","PIC2","10","PIC4","K"</Reel>
+</ReelSet>
+<ReelSet id="1" name="BaseGame2">
+<Reel>"A","Q","PIC4","K","PIC3","10","PIC2","A","PIC1","J","Q","PIC2","A","PIC4","K","PIC3","A","Q","PIC1","A","PIC2","Q","PIC3","10","PIC4","A","PIC3","10","PIC2","A","J","PIC3","Q","SCAT2","SCAT2","K","J","PIC3","A","Q","PIC1","A","Q","PIC4","J","PIC2","10","PIC3","J","PIC1","A","PIC2","J","PIC4","K","PIC3","Q","PIC2","J","PIC3","A","SCAT2","SCAT2","J","Q","PIC1","A","PIC2","J","PIC3","Q","PIC1","10","PIC2","A","PIC3","Q","SCAT2","SCAT2","SCAT2","J","Q","PIC2"</Reel>
+<Reel>"10","PIC4","K","SCAT2","SCAT2","K","PIC4","10","PIC1","K","PIC4","10","PIC1","J","PIC3","K","PIC4","A","PIC3","K","PIC1","J","PIC2","K","PIC1","Q","PIC3","J","PIC4","K","SCAT2","SCAT2","10","PIC4","K","PIC2","10","PIC1","K","PIC4","Q","WILD","PIC4","Q","PIC3","K","PIC2","10","PIC4","K","PIC1","Q","PIC4","10","PIC1","K","PIC4","A","K","WILD","A","K","10","PIC3","K","PIC4","10","PIC2","J","PIC4","K","PIC3","10","PIC4","K","J","WILD","K","J","PIC3","Q","10","PIC1","K","PIC4","10","SCAT2","SCAT2","Q","PIC1","K","PIC4","A","WILD","PIC4","A","K","PIC1","J","PIC2","K","PIC1","Q","PIC3","J","PIC4","K","SCAT2","SCAT2","SCAT2","10","PIC4","K","PIC2","10","PIC1","K","WILD","PIC1","K","PIC2","A"</Reel>
+<Reel>"J","PIC1","K","PIC4","10","PIC3","K","PIC4","10","PIC2","J","WILD","PIC2","J","10","PIC2","K","PIC4","10","PIC2","Q","PIC3","K","PIC2","J","PIC1","K","WILD","PIC1","K","PIC3","K","PIC2","J","SCAT2","SCAT2","SCAT2","K","A","PIC1","10","PIC4","A","PIC1","J","WILD","PIC1","J","A","PIC2","10","PIC1","K","SCAT2","SCAT2","A","PIC2","Q","J","PIC1","K","PIC4","10","PIC3","K","PIC4","10","PIC2","J","Q","WILD","J","Q","PIC2","K","PIC4","10","PIC2","Q","PIC3","K","PIC2","J","PIC1","K","J","WILD","K","J","Q","PIC3","K","PIC2","J","SCAT2","SCAT2","SCAT2","K","A","PIC1","10","PIC4","A","PIC1","J","WILD","PIC1","J","A","PIC2","10","PIC1","K","SCAT2","SCAT2","A","PIC2","Q","PIC3"</Reel>
+<Reel>"A","PIC2","10","PIC1","A","PIC2","K","PIC4","10","WILD","PIC4","10","Q","PIC3","J","PIC4","K","PIC1","A","PIC3","K","PIC1","J","J","Q","WILD","J","Q","PIC1","10","PIC4","K","SCAT2","SCAT2","SCAT2","10","Q","PIC3","J","WILD","PIC3","J","Q","PIC3","10","PIC4","Q","PIC1","10","PIC3","J","WILD","PIC3","J","A","SCAT2","SCAT2","K","PIC4","10"</Reel>
+<Reel>"10","PIC3","J","PIC1","Q","PIC4","K","PIC3","A","PIC2","J","PIC3","A","PIC2","J","PIC4","A","PIC2","J","PIC1","10","PIC2","K","PIC3","A","PIC2","J","A","PIC4","Q","PIC3","A","PIC2","J","PIC3","Q","SCAT2","SCAT2","SCAT2","K","PIC2","10","Q","PIC3","K","PIC3","A","PIC2","J","PIC3","10","PIC2","K","J","PIC1","Q","PIC2","K","PIC4","Q","PIC2","A","PIC3","10","PIC2","K","SCAT2","SCAT2","A","PIC2","J","PIC1","10","PIC4","K","PIC3","Q","PIC3","A","PIC2","J","K","PIC2","A","PIC4","Q","PIC3"</Reel>
+</ReelSet>
+</ReelSets>
+
+<Scatter_settings>
+<Spins values="0,0,10,10,10" />
+<AdditionalSpins values="10,10,10,10,10" />
+</Scatter_settings>
+
+<parsing_example>
+<parseexample values="1,0" weights="100,900"/>
+</parsing_example>
+
+<InitialScreen>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</InitialScreen>
+
+</config>

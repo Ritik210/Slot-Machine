@@ -1,0 +1,2938 @@
+fileFormatVersion: 2
+guid: 1c27307c77962c64f91f21802e5bda35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3024749181881887641
+    second: Desktop_Ui_0
+  - first:
+      213: 230477323040810300
+    second: Desktop_Ui_1
+  - first:
+      213: -7230421805877508745
+    second: Desktop_Ui_2
+  - first:
+      213: 3330809671129981169
+    second: Desktop_Ui_3
+  - first:
+      213: -3860961458665823993
+    second: Desktop_Ui_4
+  - first:
+      213: -5425017229171664167
+    second: Desktop_Ui_5
+  - first:
+      213: 5003455243760078268
+    second: Desktop_Ui_6
+  - first:
+      213: 8017511342900346011
+    second: Desktop_Ui_7
+  - first:
+      213: 7914916729860446244
+    second: Desktop_Ui_8
+  - first:
+      213: -3465841327985113231
+    second: Desktop_Ui_9
+  - first:
+      213: 551817560444332065
+    second: Desktop_Ui_10
+  - first:
+      213: 5537451828273561742
+    second: Desktop_Ui_11
+  - first:
+      213: -3041548662763243445
+    second: Desktop_Ui_12
+  - first:
+      213: 4989090422532763380
+    second: Desktop_Ui_13
+  - first:
+      213: 6083650712717974909
+    second: Desktop_Ui_14
+  - first:
+      213: 5687382322620885905
+    second: Desktop_Ui_15
+  - first:
+      213: -6803197479082900897
+    second: Desktop_Ui_16
+  - first:
+      213: -226139818544775023
+    second: Desktop_Ui_17
+  - first:
+      213: 6675861980965014928
+    second: Desktop_Ui_18
+  - first:
+      213: -5617183967467686283
+    second: Desktop_Ui_19
+  - first:
+      213: 4958164266479763739
+    second: Desktop_Ui_20
+  - first:
+      213: -7496798245510537037
+    second: Desktop_Ui_21
+  - first:
+      213: 1420400406783227183
+    second: Desktop_Ui_22
+  - first:
+      213: 5417913855598568464
+    second: Desktop_Ui_23
+  - first:
+      213: -5380450740577884955
+    second: Desktop_Ui_24
+  - first:
+      213: 2760604656993308360
+    second: Desktop_Ui_25
+  - first:
+      213: 7432827712709139366
+    second: Desktop_Ui_26
+  - first:
+      213: -8304765235158127673
+    second: Desktop_Ui_27
+  - first:
+      213: 8724904711157834054
+    second: Desktop_Ui_28
+  - first:
+      213: -90619970436518957
+    second: Desktop_Ui_29
+  - first:
+      213: -7859848788971270950
+    second: Desktop_Ui_30
+  - first:
+      213: 8275848584193199655
+    second: Desktop_Ui_31
+  - first:
+      213: -7465353049337336890
+    second: Desktop_Ui_32
+  - first:
+      213: -5863168574135381463
+    second: Desktop_Ui_33
+  - first:
+      213: -3388946644055242701
+    second: Desktop_Ui_34
+  - first:
+      213: -7313797902434532026
+    second: Desktop_Ui_35
+  - first:
+      213: -1004139519551094451
+    second: Desktop_Ui_36
+  - first:
+      213: 8146170472002776139
+    second: Desktop_Ui_37
+  - first:
+      213: 8803523992006387064
+    second: Desktop_Ui_38
+  - first:
+      213: 790370103316336715
+    second: Desktop_Ui_39
+  - first:
+      213: -5129973521962034852
+    second: Desktop_Ui_40
+  - first:
+      213: 2134860479219286176
+    second: Desktop_Ui_41
+  - first:
+      213: -7362170898236521673
+    second: Desktop_Ui_42
+  - first:
+      213: 4240967057219538298
+    second: Desktop_Ui_43
+  - first:
+      213: 6279792444409796361
+    second: Desktop_Ui_44
+  - first:
+      213: -6644235747433156398
+    second: Desktop_Ui_45
+  - first:
+      213: -550030264813068546
+    second: Desktop_Ui_46
+  - first:
+      213: -2288654645985496959
+    second: Desktop_Ui_47
+  - first:
+      213: -7852850402842126378
+    second: Desktop_Ui_48
+  - first:
+      213: -8434140743053908099
+    second: Desktop_Ui_49
+  - first:
+      213: 8963571144312501235
+    second: Desktop_Ui_50
+  - first:
+      213: -963044863419377758
+    second: Desktop_Ui_51
+  - first:
+      213: -7483120260765665071
+    second: Desktop_Ui_52
+  - first:
+      213: -191687977666235166
+    second: Desktop_Ui_53
+  - first:
+      213: -8076872483145479547
+    second: Desktop_Ui_54
+  - first:
+      213: -3957434258198462338
+    second: Desktop_Ui_55
+  - first:
+      213: -7116261734728777413
+    second: Desktop_Ui_56
+  - first:
+      213: 6514771800558699115
+    second: Desktop_Ui_57
+  - first:
+      213: 1540480692015425389
+    second: Desktop_Ui_58
+  - first:
+      213: 489335163187359135
+    second: Desktop_Ui_59
+  - first:
+      213: -1573536068329226998
+    second: Desktop_Ui_60
+  - first:
+      213: -4919465026446179727
+    second: Desktop_Ui_61
+  - first:
+      213: -6029790502297492599
+    second: Desktop_Ui_62
+  - first:
+      213: -7200968935057050592
+    second: Desktop_Ui_63
+  - first:
+      213: -8245797558475387049
+    second: Desktop_Ui_64
+  - first:
+      213: -8139320069329272780
+    second: Desktop_Ui_65
+  - first:
+      213: 5398333450368313105
+    second: Desktop_Ui_66
+  - first:
+      213: -8246900694461820740
+    second: Desktop_Ui_67
+  - first:
+      213: 6919188353153731072
+    second: Desktop_Ui_68
+  - first:
+      213: -3803157501658390886
+    second: Desktop_Ui_69
+  - first:
+      213: 6569847419716489369
+    second: Desktop_Ui_70
+  - first:
+      213: 2896996726437011952
+    second: Desktop_Ui_71
+  - first:
+      213: -5453601801163103502
+    second: Desktop_Ui_72
+  - first:
+      213: -8247364954336491795
+    second: Desktop_Ui_73
+  - first:
+      213: 3315318728205746212
+    second: Desktop_Ui_74
+  - first:
+      213: 6706545767340584755
+    second: Desktop_Ui_75
+  - first:
+      213: 354809452992292991
+    second: Desktop_Ui_76
+  - first:
+      213: 606902603068970735
+    second: Desktop_Ui_77
+  - first:
+      213: -2290664407736152257
+    second: Desktop_Ui_78
+  - first:
+      213: -3066298413114398769
+    second: Desktop_Ui_79
+  - first:
+      213: 8934187148637470933
+    second: Desktop_Ui_80
+  - first:
+      213: -4893032383373670631
+    second: Desktop_Ui_81
+  - first:
+      213: -5424944430666409230
+    second: Desktop_Ui_82
+  - first:
+      213: -2483313274709292674
+    second: Desktop_Ui_83
+  - first:
+      213: 7589185978395090763
+    second: Desktop_Ui_84
+  - first:
+      213: -6844018780738837629
+    second: Desktop_Ui_85
+  - first:
+      213: -5812870037584394123
+    second: Desktop_Ui_86
+  - first:
+      213: 2662494763214138257
+    second: Desktop_Ui_87
+  - first:
+      213: 1905786891136070777
+    second: Desktop_Ui_88
+  - first:
+      213: 5251087346371953154
+    second: Desktop_Ui_89
+  - first:
+      213: -934662350961694718
+    second: Desktop_Ui_90
+  - first:
+      213: -7816203144666310325
+    second: Desktop_Ui_91
+  - first:
+      213: 4723217556353116788
+    second: Desktop_Ui_92
+  - first:
+      213: 3608466752710552247
+    second: Desktop_Ui_93
+  - first:
+      213: -8727658810447586127
+    second: Desktop_Ui_94
+  - first:
+      213: -2253376534917881633
+    second: Desktop_Ui_95
+  - first:
+      213: -8536208823675012606
+    second: Desktop_Ui_96
+  - first:
+      213: -4847555526961310048
+    second: Desktop_Ui_97
+  - first:
+      213: 4680748608443670099
+    second: Desktop_Ui_98
+  - first:
+      213: 721502794718040312
+    second: Desktop_Ui_99
+  - first:
+      213: -885030462083475919
+    second: Desktop_Ui_100
+  - first:
+      213: 3907407116286817010
+    second: Desktop_Ui_101
+  - first:
+      213: 1850935669742755100
+    second: Desktop_Ui_102
+  - first:
+      213: -4455726882612201086
+    second: Desktop_Ui_103
+  - first:
+      213: -5293359841028000483
+    second: Desktop_Ui_104
+  - first:
+      213: -7540093828089626136
+    second: Desktop_Ui_105
+  - first:
+      213: -38145852973173517
+    second: Desktop_Ui_106
+  - first:
+      213: -3884234358234670918
+    second: Desktop_Ui_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desktop_Ui_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 423
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b29b8ea511af920800000000000000
+      internalID: 3024749181881887641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 390
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3561a877e1d23300800000000000000
+      internalID: 230477323040810300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 423
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775ce6c0da168ab90800000000000000
+      internalID: -7230421805877508745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 384
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0632e9fb9693e20800000000000000
+      internalID: 3330809671129981169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 426
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701efb4720c1b6ac0800000000000000
+      internalID: -3860961458665823993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 414
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da59d2b29776b4b0800000000000000
+      internalID: -5425017229171664167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 426
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd82e5e808df6540800000000000000
+      internalID: 5003455243760078268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 410
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c7d38761ce34f60800000000000000
+      internalID: 8017511342900346011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 402
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428d02ea4de67dd60800000000000000
+      internalID: 7914916729860446244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 391
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177449dccabd6efc0800000000000000
+      internalID: -3465841327985113231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 402
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286b17c52378a700800000000000000
+      internalID: 551817560444332065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_11
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 385
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e804511691bf8dc40800000000000000
+      internalID: 5537451828273561742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_12
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 435
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48bee42b9f3ac5d0800000000000000
+      internalID: -3041548662763243445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_13
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 429
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe6e535e4fcc3540800000000000000
+      internalID: 4989090422532763380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_14
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 435
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d5b1537187d6450800000000000000
+      internalID: 6083650712717974909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 427
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b67a1e614adee40800000000000000
+      internalID: 5687382322620885905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f524e6a00ff2691a0800000000000000
+      internalID: -6803197479082900897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 420
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190411e78079cdcf0800000000000000
+      internalID: -226139818544775023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d84f8f91d65ac50800000000000000
+      internalID: 6675861980965014928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_19
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576b11551f0cb02b0800000000000000
+      internalID: -5617183967467686283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_20
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 435
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11cf818120fec440800000000000000
+      internalID: 4958164266479763739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 431
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a29727b506f790800000000000000
+      internalID: -7496798245510537037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_22
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 435
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f257225f4a646b310800000000000000
+      internalID: 1420400406783227183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_23
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 427
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014ae9242fb403b40800000000000000
+      internalID: 5417913855598568464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_24
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 402
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e42e5cee8cc455b0800000000000000
+      internalID: -5380450740577884955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_25
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 390
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce00692f43af4620800000000000000
+      internalID: 2760604656993308360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_26
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 402
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab15b48c65b62760800000000000000
+      internalID: 7432827712709139366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_27
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 384
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbe267e40c8fbc80800000000000000
+      internalID: -8304765235158127673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_28
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 441
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641e1b7bb96151970800000000000000
+      internalID: 8724904711157834054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_29
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 441
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db2394fd9d0ebef0800000000000000
+      internalID: -90619970436518957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_30
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 441
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc45117b253ce290800000000000000
+      internalID: -7859848788971270950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_31
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 443
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e41c3a078b9d270800000000000000
+      internalID: 8275848584193199655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_32
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 441
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb6e5b64fcb56890800000000000000
+      internalID: -7465353049337336890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_33
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 441
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9225d680f37d1aea0800000000000000
+      internalID: -5863168574135381463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_34
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 441
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338c55e8bfa08f0d0800000000000000
+      internalID: -3388946644055242701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_35
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 443
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6458462de8b208a90800000000000000
+      internalID: -7313797902434532026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_36
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41c9385d649012f0800000000000000
+      internalID: -1004139519551094451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_37
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 420
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c608f42e20d0170800000000000000
+      internalID: 8146170472002776139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_38
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8756b2b7d666c2a70800000000000000
+      internalID: 8803523992006387064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_39
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b405241eb65f7fa00800000000000000
+      internalID: 790370103316336715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_40
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591b44f24caec8b0800000000000000
+      internalID: -5129973521962034852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_41
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 420
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0c2ec7b4c80ad10800000000000000
+      internalID: 2134860479219286176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_42
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c4e2139054d990800000000000000
+      internalID: -7362170898236521673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_43
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 416
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d44b5a111fada30800000000000000
+      internalID: 4240967057219538298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_44
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 380
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9075a38d4fd462750800000000000000
+      internalID: 6279792444409796361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 400
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d07b465aceeac3a0800000000000000
+      internalID: -6644235747433156398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 400
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5a1a6366ed58f0800000000000000
+      internalID: -550030264813068546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 115
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180bc7ca9b01d30e0800000000000000
+      internalID: -2288654645985496959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 299
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7df403a22150390800000000000000
+      internalID: -7852850402842126378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 299
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d776f902ea9e3fa80800000000000000
+      internalID: -8434140743053908099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 299
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f330b7f670056c70800000000000000
+      internalID: 8963571144312501235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 307
+        width: 115
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a79f159cc392a2f0800000000000000
+      internalID: -963044863419377758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_52
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 299
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b88525cd962890800000000000000
+      internalID: -7483120260765665071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_53
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 299
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4bd77ccccf65df0800000000000000
+      internalID: -191687977666235166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_54
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 299
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a8cf9054f29ef80800000000000000
+      internalID: -8076872483145479547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_55
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 307
+        width: 115
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e708e12728e5419c0800000000000000
+      internalID: -3957434258198462338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_56
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 299
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3149c4e7a5fd3d90800000000000000
+      internalID: -7116261734728777413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_57
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 299
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6288059f6e196a50800000000000000
+      internalID: 6514771800558699115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_58
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 278
+        width: 306
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d676dee0703e06510800000000000000
+      internalID: 1540480692015425389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_59
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 350
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9de3e10db77ac600800000000000000
+      internalID: 489335163187359135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_60
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 338
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0db8f5684da92ae0800000000000000
+      internalID: -1573536068329226998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_61
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 350
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c7b57f9c8abbb0800000000000000
+      internalID: -4919465026446179727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_62
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 334
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983a8804c71e15ca0800000000000000
+      internalID: -6029790502297492599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 234
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0243d4be7e4011c90800000000000000
+      internalID: -7200968935057050592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 236
+        width: 100
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f8a450fca019d80800000000000000
+      internalID: -8245797558475387049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 234
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430cb6a55835b0f80800000000000000
+      internalID: -8139320069329272780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 236
+        width: 100
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117ef48ebabbaea40800000000000000
+      internalID: 5398333450368313105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_67
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 234
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb05ea8238f1d8d80800000000000000
+      internalID: -8246900694461820740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_68
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 234
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a8fb3d525e50060800000000000000
+      internalID: 6919188353153731072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_69
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 234
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e1ac8f668783bc0800000000000000
+      internalID: -3803157501658390886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_70
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 234
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d7b07b69cc2b50800000000000000
+      internalID: 6569847419716489369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 1481
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16fba7c23343820800000000000000
+      internalID: 2896996726437011952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 156
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f22e376e0ae054b0800000000000000
+      internalID: -5453601801163103502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 456
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de684cb35497b8d80800000000000000
+      internalID: -8247364954336491795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_74
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1
+        width: 156
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42047e761d0620e20800000000000000
+      internalID: 3315318728205746212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_75
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 39
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2c34b7df621d50800000000000000
+      internalID: 6706545767340584755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_76
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 43
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786e8051598ce400800000000000000
+      internalID: 354809452992292991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_77
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 39
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe69f25b3b62c6800800000000000000
+      internalID: 606902603068970735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_78
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 39
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f814d8bdce530e0800000000000000
+      internalID: -2290664407736152257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_79
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 39
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7e8f6d6d15275d0800000000000000
+      internalID: -3066298413114398769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_80
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 43
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0856750eb9cfb70800000000000000
+      internalID: 8934187148637470933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_81
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 39
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9178782c8f4781cb0800000000000000
+      internalID: -4893032383373670631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_82
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 39
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa15eb68c9b6b4b0800000000000000
+      internalID: -5424944430666409230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_83
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 38
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c0fadbbf798dd0800000000000000
+      internalID: -2483313274709292674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_84
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 25
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f5d982074325960800000000000000
+      internalID: 7589185978395090763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_85
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 38
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383a5f91e292501a0800000000000000
+      internalID: -6844018780738837629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_86
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 21
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578454caf79845fa0800000000000000
+      internalID: -5812870037584394123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_87
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 31
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b67b171e413f420800000000000000
+      internalID: 2662494763214138257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_88
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 21
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f2c78417b27a10800000000000000
+      internalID: 1905786891136070777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_89
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 38
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028c0dbe1c9fd840800000000000000
+      internalID: 5251087346371953154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_90
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 25
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2082ff93b896703f0800000000000000
+      internalID: -934662350961694718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_91
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 38
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b499fd5e6a4478390800000000000000
+      internalID: -7816203144666310325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_92
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 21
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae053c75d3c8140800000000000000
+      internalID: 4723217556353116788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_93
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 31
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baae13a469d31230800000000000000
+      internalID: 3608466752710552247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_94
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 15
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc96729d8021e680800000000000000
+      internalID: -8727658810447586127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_95
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 41
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0e40bfaf56ab0e0800000000000000
+      internalID: -2253376534917881633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_96
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 44
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abb483d4b498980800000000000000
+      internalID: -8536208823675012606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_97
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 45
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a65d728ee50abcb0800000000000000
+      internalID: -4847555526961310048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_98
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 41
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e50394f0c55f040800000000000000
+      internalID: 4680748608443670099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_99
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 44
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0de9718fa430a00800000000000000
+      internalID: 721502794718040312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_100
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 41
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1365d1cdb7db7b3f0800000000000000
+      internalID: -885030462083475919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_101
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 44
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2fb17e116e93630800000000000000
+      internalID: 3907407116286817010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_102
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 35
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ddd195f28dfa910800000000000000
+      internalID: 1850935669742755100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_103
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 38
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289bdb9f1041a22c0800000000000000
+      internalID: -4455726882612201086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_104
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 41
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15353f15453a86b0800000000000000
+      internalID: -5293359841028000483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_105
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 41
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e14a9bcc943c5790800000000000000
+      internalID: -7540093828089626136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_106
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 35
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f431ef7c8a787ff0800000000000000
+      internalID: -38145852973173517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desktop_Ui_107
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 38
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81e054e6d681ac0800000000000000
+      internalID: -3884234358234670918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Desktop_Ui_0: 3024749181881887641
+      Desktop_Ui_1: 230477323040810300
+      Desktop_Ui_10: 551817560444332065
+      Desktop_Ui_100: -885030462083475919
+      Desktop_Ui_101: 3907407116286817010
+      Desktop_Ui_102: 1850935669742755100
+      Desktop_Ui_103: -4455726882612201086
+      Desktop_Ui_104: -5293359841028000483
+      Desktop_Ui_105: -7540093828089626136
+      Desktop_Ui_106: -38145852973173517
+      Desktop_Ui_107: -3884234358234670918
+      Desktop_Ui_11: 5537451828273561742
+      Desktop_Ui_12: -3041548662763243445
+      Desktop_Ui_13: 4989090422532763380
+      Desktop_Ui_14: 6083650712717974909
+      Desktop_Ui_15: 5687382322620885905
+      Desktop_Ui_16: -6803197479082900897
+      Desktop_Ui_17: -226139818544775023
+      Desktop_Ui_18: 6675861980965014928
+      Desktop_Ui_19: -5617183967467686283
+      Desktop_Ui_2: -7230421805877508745
+      Desktop_Ui_20: 4958164266479763739
+      Desktop_Ui_21: -7496798245510537037
+      Desktop_Ui_22: 1420400406783227183
+      Desktop_Ui_23: 5417913855598568464
+      Desktop_Ui_24: -5380450740577884955
+      Desktop_Ui_25: 2760604656993308360
+      Desktop_Ui_26: 7432827712709139366
+      Desktop_Ui_27: -8304765235158127673
+      Desktop_Ui_28: 8724904711157834054
+      Desktop_Ui_29: -90619970436518957
+      Desktop_Ui_3: 3330809671129981169
+      Desktop_Ui_30: -7859848788971270950
+      Desktop_Ui_31: 8275848584193199655
+      Desktop_Ui_32: -7465353049337336890
+      Desktop_Ui_33: -5863168574135381463
+      Desktop_Ui_34: -3388946644055242701
+      Desktop_Ui_35: -7313797902434532026
+      Desktop_Ui_36: -1004139519551094451
+      Desktop_Ui_37: 8146170472002776139
+      Desktop_Ui_38: 8803523992006387064
+      Desktop_Ui_39: 790370103316336715
+      Desktop_Ui_4: -3860961458665823993
+      Desktop_Ui_40: -5129973521962034852
+      Desktop_Ui_41: 2134860479219286176
+      Desktop_Ui_42: -7362170898236521673
+      Desktop_Ui_43: 4240967057219538298
+      Desktop_Ui_44: 6279792444409796361
+      Desktop_Ui_45: -6644235747433156398
+      Desktop_Ui_46: -550030264813068546
+      Desktop_Ui_47: -2288654645985496959
+      Desktop_Ui_48: -7852850402842126378
+      Desktop_Ui_49: -8434140743053908099
+      Desktop_Ui_5: -5425017229171664167
+      Desktop_Ui_50: 8963571144312501235
+      Desktop_Ui_51: -963044863419377758
+      Desktop_Ui_52: -7483120260765665071
+      Desktop_Ui_53: -191687977666235166
+      Desktop_Ui_54: -8076872483145479547
+      Desktop_Ui_55: -3957434258198462338
+      Desktop_Ui_56: -7116261734728777413
+      Desktop_Ui_57: 6514771800558699115
+      Desktop_Ui_58: 1540480692015425389
+      Desktop_Ui_59: 489335163187359135
+      Desktop_Ui_6: 5003455243760078268
+      Desktop_Ui_60: -1573536068329226998
+      Desktop_Ui_61: -4919465026446179727
+      Desktop_Ui_62: -6029790502297492599
+      Desktop_Ui_63: -7200968935057050592
+      Desktop_Ui_64: -8245797558475387049
+      Desktop_Ui_65: -8139320069329272780
+      Desktop_Ui_66: 5398333450368313105
+      Desktop_Ui_67: -8246900694461820740
+      Desktop_Ui_68: 6919188353153731072
+      Desktop_Ui_69: -3803157501658390886
+      Desktop_Ui_7: 8017511342900346011
+      Desktop_Ui_70: 6569847419716489369
+      Desktop_Ui_71: 2896996726437011952
+      Desktop_Ui_72: -5453601801163103502
+      Desktop_Ui_73: -8247364954336491795
+      Desktop_Ui_74: 3315318728205746212
+      Desktop_Ui_75: 6706545767340584755
+      Desktop_Ui_76: 354809452992292991
+      Desktop_Ui_77: 606902603068970735
+      Desktop_Ui_78: -2290664407736152257
+      Desktop_Ui_79: -3066298413114398769
+      Desktop_Ui_8: 7914916729860446244
+      Desktop_Ui_80: 8934187148637470933
+      Desktop_Ui_81: -4893032383373670631
+      Desktop_Ui_82: -5424944430666409230
+      Desktop_Ui_83: -2483313274709292674
+      Desktop_Ui_84: 7589185978395090763
+      Desktop_Ui_85: -6844018780738837629
+      Desktop_Ui_86: -5812870037584394123
+      Desktop_Ui_87: 2662494763214138257
+      Desktop_Ui_88: 1905786891136070777
+      Desktop_Ui_89: 5251087346371953154
+      Desktop_Ui_9: -3465841327985113231
+      Desktop_Ui_90: -934662350961694718
+      Desktop_Ui_91: -7816203144666310325
+      Desktop_Ui_92: 4723217556353116788
+      Desktop_Ui_93: 3608466752710552247
+      Desktop_Ui_94: -8727658810447586127
+      Desktop_Ui_95: -2253376534917881633
+      Desktop_Ui_96: -8536208823675012606
+      Desktop_Ui_97: -4847555526961310048
+      Desktop_Ui_98: 4680748608443670099
+      Desktop_Ui_99: 721502794718040312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

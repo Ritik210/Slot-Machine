@@ -1,0 +1,108 @@
+{"frames": {
+
+"bonus_ zeus_pig.png":
+{
+	"frame": {"x":2,"y":210,"w":208,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":194,"w":208,"h":211},
+	"sourceSize": {"w":600,"h":600}
+},
+"coin.png":
+{
+	"frame": {"x":288,"y":2,"w":188,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":205,"w":188,"h":191},
+	"sourceSize": {"w":600,"h":600}
+},
+"collector_lightning.png":
+{
+	"frame": {"x":2,"y":2,"w":284,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":158,"y":197,"w":284,"h":206},
+	"sourceSize": {"w":600,"h":600}
+},
+"H1_oink_warrior.png":
+{
+	"frame": {"x":288,"y":195,"w":170,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":215,"w":170,"h":170},
+	"sourceSize": {"w":600,"h":600}
+},
+"H2_olympian.png":
+{
+	"frame": {"x":2,"y":423,"w":170,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":215,"w":170,"h":170},
+	"sourceSize": {"w":600,"h":600}
+},
+"H3_golden_pig_ring.png":
+{
+	"frame": {"x":174,"y":568,"w":170,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":215,"w":170,"h":170},
+	"sourceSize": {"w":600,"h":600}
+},
+"L1_heart.png":
+{
+	"frame": {"x":2,"y":767,"w":150,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":225,"y":234,"w":150,"h":132},
+	"sourceSize": {"w":600,"h":600}
+},
+"L2_spade.png":
+{
+	"frame": {"x":328,"y":740,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":230,"y":230,"w":140,"h":140},
+	"sourceSize": {"w":600,"h":600}
+},
+"L3_diamond.png":
+{
+	"frame": {"x":174,"y":740,"w":152,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":224,"y":230,"w":152,"h":140},
+	"sourceSize": {"w":600,"h":600}
+},
+"L4_club.png":
+{
+	"frame": {"x":346,"y":568,"w":138,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":236,"w":138,"h":129},
+	"sourceSize": {"w":600,"h":600}
+},
+"pig_crown.png":
+{
+	"frame": {"x":2,"y":595,"w":170,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":215,"w":170,"h":170},
+	"sourceSize": {"w":600,"h":600}
+},
+"wild_ parthenon.png":
+{
+	"frame": {"x":212,"y":367,"w":205,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":201,"w":205,"h":199},
+	"sourceSize": {"w":600,"h":600}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbols.png",
+	"format": "RGBA8888",
+	"size": {"w":486,"h":901},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c583704696ea342076e1e32aa4c7cf82:45d5d11555bcdde02d12254efd5dc335:d295ed7153fe372207e34d26d380974a$"
+}
+}
