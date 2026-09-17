@@ -8,7 +8,7 @@ The included game is a generic **6×4 Ways-to-Win** slot with **tumbling (cascad
 
 ## 🎮 Play it
 
-> **Playable build:** _[paste playable link here]_
+> **Playable build:** https://ritik210.github.io/Slot-Machine/Build/
 >
 > <!-- Replace the placeholder above with the hosted WebGL / itch.io URL, e.g.
 >      **Playable build:** https://your-host.example.com/slot-prototype  -->
