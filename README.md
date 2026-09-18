@@ -279,17 +279,6 @@ Every weighted table uses the same shape — `values="a,b,c" weights="x,y,z"` �
 
 ---
 
-## ⚠️ Known issues & legacy code
-
-- `SlotUnityEventRouter.OnDisable` unsubscribes with fresh lambdas, so handlers are never actually removed (leak / double-fire on re-enable).
-- `WildMeterEvent`, `JackpotUpgradeEvent` and `UltraNudgeEvent` are defined but never raised — safe to delete.
-- Respin plumbing (`RespinEvent`, `SlotModeType.Respin`, `SlotModeEventDispatcher`) exists but nothing triggers it in the current game.
-- `Config.XML` / `GameScene.unity` are the older 5×3 setup and are not part of the build.
-- `SpinSpeedController` comments mention 1×–8× but only `{1, 2, 4}` are populated; `ReelSpinAnimator` does not scale its spin speed with it.
-- `LinesUtil.lineRules` is a hard-coded 5×3, 20-line table; it is only used by the Ways path for pricing and would need regenerating (Payline Editor) before running a payline game on the 6×4 grid.
-
----
-
 ## 🧰 Tech stack
 
 - **Unity 6000.3.15f1**, Universal Render Pipeline 17.3.0, 2D feature set
